@@ -1,0 +1,32 @@
+.addstudent input {
+    margin-bottom: 25px;
+}
+
+.w_400 {
+    width: 400px;
+    margin: auto;
+    display: block;
+    box-shadow: 2px 3px 12px 5px rgb(117, 117, 117);
+    padding: 30px;
+}
+
+.subanner {
+    background-image: url(./subbanner.jpg);
+    padding: 20px 0px;
+}
+
+.subanner h4,
+.subanner ul li,
+.subanner ul li a {
+    color: #fff !important
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.xyz::before {
+    color: #fff !important;
+    content: "/" !important;
+}
